@@ -1,0 +1,168 @@
+.box1{
+  text-align: center;
+  font-size: 47px;
+  background-color: green;
+  width: 600px;
+  height: 300px;
+  margin: auto;
+}
+
+.button{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_hide{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button2{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show2{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_hide2{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+/* カウントと枠 */
+.button3{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show3{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_show4{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+/* フェードインとかきくけこ */
+.button4{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show5{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_show6{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+/* 背景黒文字白とあいうえお */
+.button5{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show7{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_show8{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+/* さしすせそと偶数行 */
+.button6{
+  display: flex;
+  padding-left: 23%;
+  padding-top: 30px;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.button_show9{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
+
+.button_show10{
+  width: 300px;
+  height: 60px;
+  font-size: 18px;
+  background-color: #ffd61a;
+  border: none;
+  color: white;
+}
